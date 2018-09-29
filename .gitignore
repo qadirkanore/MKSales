@@ -3,3 +3,4 @@ public/codebase/
 node_modules/
 *.log
 dist/
+package-lock.json
