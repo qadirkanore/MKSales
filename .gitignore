@@ -1,0 +1,5 @@
+.idea/
+public/codebase/
+node_modules/
+*.log
+dist/
